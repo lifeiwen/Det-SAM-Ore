@@ -1,2 +1,3 @@
 **Ore-Particle-Segmentation**
-Paper：
+
+Paper：Customizing SAM for Ore Particle Segmentation by a Detection-Driven Approach: Det-SAM-Ore
