@@ -13,9 +13,11 @@ Particle Segmentation Results:<br />
 ![DSCN3054c_overlay](https://github.com/user-attachments/assets/5ccdacee-7270-469c-a626-202e69723e92) <br />
 **copper ore particle**<br />
 ![0551_cu_1_overlay](https://github.com/user-attachments/assets/ed337756-5c8a-483e-bc02-3f46df2b2c8a) <br />
-
 **dump particle**： <br />
 ![2_overlay](https://github.com/user-attachments/assets/6aaea9ed-c7ff-439e-a024-174d130decc1) <br />
+**cell particle**： <br />
+![9c4905d020_overlay](https://github.com/user-attachments/assets/e0b96547-3ba3-4c58-be17-28350a407a7a)
+
 
 
 
