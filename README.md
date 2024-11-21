@@ -11,6 +11,7 @@ Particle Segmentation Results:<br />
 ![482193653a_overlay](https://github.com/user-attachments/assets/e01ea8a0-294c-4959-b28f-8da515060984)<br />
 **cobblestone particle**：<br />
 ![DSCN3054c_overlay](https://github.com/user-attachments/assets/5ccdacee-7270-469c-a626-202e69723e92)
+**copper ore particle**<br />
 ![0551_cu_1_overlay](https://github.com/user-attachments/assets/ed337756-5c8a-483e-bc02-3f46df2b2c8a)
 ![401_overlay](https://github.com/user-attachments/assets/8e4f0201-3a68-4f3f-8d5a-815aa2c206f7)
 **dump particle**： <br />
