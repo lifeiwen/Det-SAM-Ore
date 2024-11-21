@@ -8,7 +8,7 @@ Particle Segmentation Results:<br />
 **iron ore particle**<br />
 ![IMG1031_overlay4](https://github.com/user-attachments/assets/eadf7827-bd7e-432e-b944-19489f8aaa18)
 **microbial particle**：<br />
-![482193653a_overlay](https://github.com/user-attachments/assets/e01ea8a0-294c-4959-b28f-8da515060984)
+![482193653a_overlay](https://github.com/user-attachments/assets/e01ea8a0-294c-4959-b28f-8da515060984)<br />
 **cobblestone particle**：<br />
 ![DSCN3054c_overlay](https://github.com/user-attachments/assets/5ccdacee-7270-469c-a626-202e69723e92)
 ![0551_cu_1_overlay](https://github.com/user-attachments/assets/ed337756-5c8a-483e-bc02-3f46df2b2c8a)
